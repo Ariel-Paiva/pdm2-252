@@ -1,5 +1,4 @@
-HEAD
-# my_app
+# aividade_04
 
 A new Flutter project.
 
@@ -15,6 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-# pdm2-252
-87c4082d0e87e9e77a8f7df077aa4e4d7105f08c
